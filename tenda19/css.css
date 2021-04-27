@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+<style type="text/css">
+	  #outtable{
+	  	padding: 20px;
+	  	border:1px solid #000;
+	  	width:600px;
+	  	border-radius: 5px;
+	  }
+	  .short{
+	  	width: 50px;
+	  }
+	  .normal{
+	  	width: 150px;
+	  }
+      table{
+	border-collapse: collapse;
+	font-family: arial;
+	color:#FFF;
+      }
+      thead th{
+      	text-align: left;
+      	padding: 10px;
+      }
+      tbody td{
+      	border-top: 1px solid #e3e3e3;
+      	padding: 10px;
+      }
+      tbody tr:nth-child(even){
+      	background: #27633D;
+      }
+      tbody tr:hover{
+      	background: #348760;
+      }
+	  <style type="text/css">
+    img {
+        width: 1000px;
+    }
+	</style>

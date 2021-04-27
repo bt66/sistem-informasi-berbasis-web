@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tampil_pemesanan" value="name:nomor;datatype:int,name:kode_tenda;datatype:string,name:id_pemesan;datatype:string,name:id_petugas;datatype:string,name:tgl_pinjam;datatype:string,name:tgl_kembali;datatype:string,name:total_biaya;datatype:real,name:jml_pinjam;datatype:int" />
+	<infoitem key="UD_tenda" value="name:kode_tenda;datatype:string,name:merk_tenda;datatype:string,name:stok;datatype:int,name:harga;datatype:real,name:gambar;datatype:string" />
+	<infoitem key="UD_pemesan" value="name:id_pemesan;datatype:string,name:nama_pemesan;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_pemesan;datatype:string" />
+	<infoitem key="UD_petugas" value="name:id_petugas;datatype:string,name:nama_petugas;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_petugas;datatype:string" />
+	<infoitem key="UD_pemesanan" value="name:id_pemesan;datatype:string,name:nama_pemesan;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_pemesan;datatype:string" />
+</info>

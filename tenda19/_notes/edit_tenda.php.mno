@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_tenda" value="name:kode_tenda;datatype:string,name:merk_tenda;datatype:string,name:stok;datatype:int,name:harga;datatype:real,name:gambar;datatype:string" />
+	<infoitem key="UD_edit" value="name:kode_tenda;datatype:string,name:merk_tenda;datatype:string,name:stok;datatype:int,name:harga;datatype:real,name:gambar;datatype:string" />
+</info>

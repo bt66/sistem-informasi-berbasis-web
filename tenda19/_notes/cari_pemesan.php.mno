@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cari_nama_pemesan" value="name:id_pemesan;datatype:string,name:nama_pemesan;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_pemesan;datatype:string" />
+	<infoitem key="UD_hasil_cari" value="name:id_pemesan;datatype:string,name:nama_pemesan;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_pemesan;datatype:string" />
+	<infoitem key="UD_tampil_cari" value="name:id_pemesan;datatype:string,name:nama_pemesan;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_pemesan;datatype:string" />
+	<infoitem key="UD_cari_pemesan" value="name:id_pemesan;datatype:string,name:nama_pemesan;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_pemesan;datatype:string" />
+	<infoitem key="UD_cr_pemasan" value="name:id_pemesan;datatype:string,name:nama_pemesan;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_pemesan;datatype:string" />
+</info>

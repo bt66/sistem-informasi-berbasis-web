@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cetak_pemesanan" value="name:kode_tenda;datatype:string,name:id_pemesan;datatype:string,name:id_petugas;datatype:string,name:tgl_pinjam;datatype:string,name:tgl_kembali;datatype:string,name:total_biaya;datatype:real,name:jml_pinjam;datatype:int" />
+</info>

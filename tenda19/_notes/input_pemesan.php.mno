@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tampil" value="name:id_pemesan;datatype:string,name:nama_pemesan;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_pemesan;datatype:string" />
+</info>

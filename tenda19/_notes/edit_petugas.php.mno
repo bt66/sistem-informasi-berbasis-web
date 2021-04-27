@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_petugas" value="name:id_petugas;datatype:string,name:nama_petugas;datatype:string,name:jenis_kel;datatype:string,name:no_hp;datatype:string,name:alamat_petugas;datatype:string" />
+</info>
